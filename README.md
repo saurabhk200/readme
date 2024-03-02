@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Software Developer Trainee<br>- 📚 I'm currently learning J2EE, ReactJS, and ASP. Net<br>- ⚡ In my free time I usually spend time understanding new AI tools and doing programming.<br>-  💬 Ask me about JavaScript and Java.<br>- 📄 Know about my experiences <span><a href="#">Resume</a></span></p>
+<p align="left">- 🔭 I’m a Aspiring Software Developer <br>- 📚 I'm currently learning J2EE, ReactJS, and ASP. Net<br>- ⚡ In my free time I usually spend time understanding new AI tools and doing programming.<br>-  💬 Ask me about JavaScript and Java.<br>- 📄 Know about my experiences <span><a href="#">Resume</a></span></p>
 
 ###
 
